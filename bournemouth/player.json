@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Adam Smith",
+        "position": "Full-back"
+    },
+    {
+        "name": "Andrew Surman",
+        "position": "Midfielder"
+    },
+    {
+        "name": "Artur Boruc",
+        "position": "Goalkeeper"
+    },
+    {
+        "name": "Asmir Begovic",
+        "position": "Goalkeeper"
+    },
+    {
+        "name": "Callum Wilson",
+        "position": "Forward"
+    },
+    {
+        "name": "Charlie Daniels",
+        "position": "Defender"
+    },
+    {
+        "name": "Dan Gosling",
+        "position": "Midfielder"
+    },
+    {
+        "name": "David Brooks",
+        "position": "Midfielder"
+    },
+    {
+        "name": "Emerson Hyndman",
+        "position": "Midfielder"
+    },
+    {
+        "name": "Harry Arter",
+        "position": "Midfielder"
+    },
+    {
+        "name": "Jefferson Lerma",
+        "position": "Midfielder"
+    },
+    {
+        "name": "Jeremi Kimmakon",
+        "position": "Midfielder"
+    },
+    {
+        "name": "Jermain Defoe",
+        "position": "Forward"
+    },
+    {
+        "name": "Jordan Ibe",
+        "position": "Forward"
+    },
+    {
+        "name": "Joshua King",
+        "position": "Winger"
+    },
+    {
+        "name": "Junior Stanislas",
+        "position": "Winger"
+    },
+    {
+        "name": "Lewis Cook",
+        "position": "Midfielder"
+    },
+    {
+        "name": "Lys Mousset",
+        "position": "Forward"
+    },
+    {
+        "name": "Marc Pugh",
+        "position": "Winger"
+    },
+    {
+        "name": "Nathan Ake",
+        "position": "Defender"
+    },
+    {
+        "name": "Rhoys Wiggins",
+        "position": "Defender"
+    },
+    {
+        "name": "Ryan Fraser",
+        "position": "Left Wing"
+    },
+    {
+        "name": "Simon Francis",
+        "position": "Defender"
+    },
+    {
+        "name": "Steve Cook",
+        "position": "Defender"
+    },
+    {
+        "name": "Tyrone Mings",
+        "position": "Defender"
+    }
+]
