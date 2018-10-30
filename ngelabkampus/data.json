@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Gas Chromatograph Bk-GC7820",
+		"image": "gas_chromatograph.jpg",
+		"merk": "Biobase",
+		"kode": "Bk-GC7820",
+		"description": "Appliance: The Analysis of Environmental Samples; Ray Type: Gamma Ray Spectrometer; Gaspath System: Double; Detector: FID; Energy Resolution: ≤7.5%; Certification: CE, ISO",
+		"price": 200000
+	},
+	{
+		"name": "Spectrophotometer 6320",
+		"image": "Spectrophotometer.jpg",
+		"merk": "Jenway",
+		"kode": "6320",
+		"description": "Spectrometer ( Molec. ): UV/VIS; Easy to use; Versatile sampling system; Full interfacing capability; G.L.P. compliant; 320-1000nm/8nm SBW; Domed lid enables use with tall sample tubes",
+		"price": 30000
+	},
+	{
+		"name": "Centrifuge 5702",
+		"image": "centrifuge.jpg",
+		"merk": "Eppendorf",
+		"kode": "5702",
+		"description": "Max. speed: 3,000 x g (4,400 rpm); Optimizes air flow minimizes sample warming during run; SOFT brake function for slow acceleration and braking. Optimized for cell separation by gradient centrifugation; Low access height for simple loading and unloading of samples",
+		"price": 10000
+	},
+	{
+		"name": "Digital Refractometer",
+		"image": "refractometer.jpg",
+		"merk": "Kruss Optronic",
+		"kode": "DR301-95",
+		"description": "Model DR301-95 digital hand-held refractometer. Includes refractive index, sugar and salt scales. Unit is capable of being programmed for two user-defined scales via PC serial interface. Measurement range: 1.3330 - 1.5318 nD, 0 - 95 %Brix; Accuracy: +/- 0.00015 nD, +/- 0.1 %Brix; Temperature measurement: 5 to 40°C or 41 to 104°F; Temperature compensation: 5 to 40°C",
+		"price": 5000
+	},
+	{
+		"name": "Rheometer",
+		"image": "rheometer.jpg",
+		"merk": "TA Instruments",
+		"kode": "Discovery Hybrid HR-3",
+		"description": "Patented Ultra-low Inertia Drag Cup Motor; Patented Second Generation Magnetic Bearing; High-Resolution Optical Encoder; Nano-Torque Motor Control; Direct Strain Oscillation",
+		"price": 15000
+	},
+	{
+		"name": "Digital Lux Meter",
+		"image": "luxmeter.jpg",
+		"merk": "Victor",
+		"kode": "1010A",
+		"description": "Spectral response in line with international standards CIE Lighting Association; Measure range: 0.1Lux~100x500Lux; Resolution up to 0.1Lux; High accuracy, fast response",
+		"price": 5000
+	}
+]
